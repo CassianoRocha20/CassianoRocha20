@@ -1,8 +1,12 @@
-- 👋 Hi, I’m @CassianoRocha20   
-- 👀 I’m interested in java
-- 🌱 I’m currently learning  JAVA, GiteGitHub
-- 📫 How to reach me  email: cassiano20cr@gmail.com // @cassiano20r
-<!---
-CassianoRocha20/CassianoRocha20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+
+### Oi, Cassiano Rocha.🎮⚽🐕 
+[![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/cassianor20)
+[![twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/CassianoRocha20)
+[![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/cassiano-rocha-7b2897172/)
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white000)](https//gmail.com//cassiano20cr@gmail.com)
+
+
+## Estudando:
+
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
